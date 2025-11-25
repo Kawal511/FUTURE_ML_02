@@ -56,6 +56,12 @@ python train_model.py
 ```
 This will generate new `best_model.pkl` and `scaler.pkl` files.
 
+### Streamlit Ui
+<img width="1919" height="1010" alt="Screenshot 2025-11-25 162901" src="https://github.com/user-attachments/assets/8fae6f2a-d3b2-4dec-a8ed-b9fbfb6339c4" />
+<img width="1919" height="1011" alt="Screenshot 2025-11-25 162931" src="https://github.com/user-attachments/assets/e97c423c-ff64-4c74-b624-1820ba0a0943" />
+<img width="1919" height="1019" alt="Screenshot 2025-11-25 163657" src="https://github.com/user-attachments/assets/f5574406-a3eb-4a3e-a8b6-a4a9a47c214f" />
+<img width="1919" height="1015" alt="Screenshot 2025-11-25 163004" src="https://github.com/user-attachments/assets/a481f744-30dd-4ad1-aad7-96063f7ef2d3" />
+
 ## 📊 Insights
 - **Demographics**: Older customers tend to have a higher churn risk.
 - **Geography**: Regional differences (e.g., Germany) may show higher churn rates due to market conditions.
